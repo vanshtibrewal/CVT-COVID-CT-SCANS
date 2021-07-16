@@ -1,4 +1,6 @@
 # CVT_COVID-CT-CNN collaboration space/data storage/presentation of findings
+Note: There are no commits by my github profile because there was some error when the creators of the repo tried to add me as a collaborator, so I would write/edit the code and send it to one of them to push to github.
+
 Please note:
 1. master-data contains folders of all compiled COVID and NonCOVID CT images (excluding hold-out dataset)
 2. split-data contains 70/15/15 random permutation train/val/test split of images located in master-data
