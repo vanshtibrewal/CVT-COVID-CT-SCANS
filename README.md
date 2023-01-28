@@ -1,5 +1,5 @@
 # CVT_COVID-CT-CNN collaboration space/data storage/presentation of findings
-Note: There are no commits by my github profile because there was some error when the creators of the repo tried to add me as a collaborator, so I would write/edit the code and send it to one of them to push to github.
+Note: There are no commits by my github profile because there was some problems when setting up the repo for the CVT organization, so I would write/edit the code with one of my collaborators who would push to github.
 
 Please note:
 1. master-data contains folders of all compiled COVID and NonCOVID CT images (excluding hold-out dataset)
